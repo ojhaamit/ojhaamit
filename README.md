@@ -1,4 +1,5 @@
-### Hi there! I am  Software Developer Engineer in Test, who is passsionate about learning new technologies.
+### Hi there! 
+I am  Software Developer Engineer in Test, who is passsionate about learning new technologies.
 
 ### Technical Skills:
 - Experience in designing & implementing Test Automation using:
@@ -14,6 +15,15 @@
 - Experience in mantaining HP UFT scripts.
 - SOAP/REST API testing using Postman.
 - Experience in ETL and DWH testing.
+
+### Domain Knowledge:
+- Retail Banking
+- Life Insuracne (mostly Group Clients) with focus on STP (Straight Through Processing), Billings and Payments.
+
+### Languages:
+- Python (Knowledge Demonstration: Data Structures Repository; Password Manager Tool Repository, etc.)
+- Java (Knowledge Demonstration: SwagLabs-Selenium-Automation Repository)
+- PHP (Knowledge Demonstration: Person Profile/Blog is created in PHP and have used MySQL as database for CRUD operations)
 
 ### Other Profiles:
 - [Personal](https://amit-ojha.me/)
