@@ -1,5 +1,5 @@
 ### Hi there! 
-I am  Software Developer Engineer in Test, who is passsionate about learning new technologies.
+I am  Software Developer Engineer in Test, who is passsionate about learning new technologies and product management.
 
 ### Technical Skills:
 - Experience in designing & implementing Test Automation using:
