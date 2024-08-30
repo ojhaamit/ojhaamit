@@ -3,6 +3,11 @@ I am  Software Developer Engineer in Test, who is passsionate about learning new
 
 ### Technical Skills:
 - Experience in designing & implementing Test Automation using:
+  	- Java
+  		- TestNG
+  	 	- Mockito
+  	- JavaScript
+  	- TypeScript	
 	- Python
 		- Tkinter library
 		- PyQt5 library
@@ -19,6 +24,7 @@ I am  Software Developer Engineer in Test, who is passsionate about learning new
 ### Domain Knowledge:
 - Retail Banking
 - Life Insuracne (mostly Group Clients) with focus on STP (Straight Through Processing), Billings and Payments.
+- e-commerce
 
 ### Languages:
 - Python (Knowledge Demonstration: Data Structures Repository; Password Manager Tool Repository, etc.)
