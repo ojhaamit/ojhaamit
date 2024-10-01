@@ -5,8 +5,11 @@ I am  Software Developer Engineer in Test, who is passsionate about learning new
 - Experience in designing & implementing Test Automation using:
   	- Java
   		- TestNG
+  	 	- Junit 
   	 	- Mockito
   	- JavaScript
+  		- Cypress
+  	 - React 
   	- TypeScript	
 	- Python
 		- Tkinter library
@@ -17,6 +20,7 @@ I am  Software Developer Engineer in Test, who is passsionate about learning new
 		- Page Object Model (Design Pattern)
 		- Maven build
 		- Testing Framework (TestNG)
+- Experience with AWS cloud.
 - Experience in mantaining HP UFT scripts.
 - SOAP/REST API testing using Postman.
 - Experience in ETL and DWH testing.
